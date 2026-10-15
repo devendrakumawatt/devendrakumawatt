@@ -1,12 +1,12 @@
 # About Me:
 
-I’m Devendra Kumawat, a software developer passionate about creating scalable and user-friendly applications.
-I enjoy working with React, Next.js, and TypeScript, focusing on clean architecture and seamless experiences.<br><br>
-Beyond coding, I spend my time exploring books, music, and travel.<br><br>I’m looking to collaborate on innovative projects in frontend development, UI/UX design, and full-stack solutions, especially those that aim to simplify workflows or improve user engagement.
+I’m Devendra Kumawat, a Full-Stack software developer passionate about creating scalable and user-friendly applications.
+I enjoy working with React, Next.js, Express, MongoDB, focusing on clean architecture and seamless experiences.<br><br>
+Beyond coding, I spend my time exploring books, music, and travel.<br><br>I’m looking to collaborate on innovative projects in frontend development and full-stack solutions, especially those that aim to simplify workflows or improve user engagement.
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devendra-kumawat-081676164/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]((https://in.pinterest.com/00devendrakumawat/_profile/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devendra__5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devendra94kumawat@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devendrakumawatt/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]((https://in.pinterest.com/00devendrakumawat/_profile/)) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/devendrakumawtt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devendra94kumawat@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -14,13 +14,13 @@ Beyond coding, I spend my time exploring books, music, and travel.<br><br>I’m 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=devendra-kumawat-05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devendra-kumawat-05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devendra-kumawat-05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=devendrakumawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=devendrakumawatt&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devendrakumawatt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=devendra-kumawat-05&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=devendrakumawatt&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
@@ -28,10 +28,10 @@ Beyond coding, I spend my time exploring books, music, and travel.<br><br>I’m 
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=devendra-kumawat-05&limit=5&theme=swift&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=devendrakumawatt&limit=5&theme=swift&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=devendra-kumawat-05&icon=5&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=devendrakumawatt&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
